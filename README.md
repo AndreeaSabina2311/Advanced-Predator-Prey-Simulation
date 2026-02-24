@@ -1,11 +1,5 @@
 # Advanced-Predator-Prey-Simulation
 
-# Project 2: Agent-based visual simulation
-
----
-## Option 1: Advanced Predator-Prey Simulation
-
-Extend the predator-prey simulation developed in the lab by incorporating additional features and complexities.
 
 ### Requirements:
 
