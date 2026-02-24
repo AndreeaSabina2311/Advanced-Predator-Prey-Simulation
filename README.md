@@ -35,7 +35,3 @@
 - Provide any 3 interactible controls to adjust simulation in real time (e.g., reproduction rate, energy consumption, toggling flocking behavior, manually adding food, manually adding agents, manually adding obstacles, etc.).
 
 Play around with your simulation and simulation parameters until you can reach a relatively stable environment state. A state in which both predators and prey cohabit without any or both of the species dying out completely.
-
-
-
-### (Optional) Implement both options for extra points.
